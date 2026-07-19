@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Desktop preview | Best Travel Inc</title>
+    <meta name="description" content="Fixed desktop layout preview for the Best Travel Inc redesigned landing page.">
+    <style>
+      html,
+      body {
+        margin: 0;
+        min-height: 100%;
+        background: #101b1c;
+        color: #172526;
+        font-family: Avenir Next, Avenir, Segoe UI, PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif;
+      }
+
+      .preview-shell {
+        min-width: 1280px;
+        width: 1280px;
+        min-height: 100vh;
+        background: white;
+      }
+
+      .preview-note {
+        position: fixed;
+        right: 12px;
+        bottom: 12px;
+        z-index: 10;
+        max-width: 260px;
+        padding: 10px 12px;
+        border-radius: 8px;
+        background: rgb(16 27 28 / 0.9);
+        color: white;
+        font-size: 13px;
+        line-height: 1.35;
+        box-shadow: 0 14px 40px rgb(0 0 0 / 0.28);
+      }
+
+      @media (min-width: 1280px) {
+        .preview-shell {
+          margin: 0 auto;
+        }
+
+        .preview-note {
+          display: none;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="preview-shell">
+      <iframe
+        title="Best Travel Inc desktop layout preview"
+        src="./index.html"
+        width="1280"
+        height="5200"
+        style="display:block;border:0;width:1280px;max-width:none;"
+      ></iframe>
+    </div>
+    <div class="preview-note">Desktop layout preview. On phone, swipe sideways to inspect the full 1280px page.</div>
+  </body>
+</html>
