@@ -1,0 +1,308 @@
+﻿{
+    "base":  "http://www.perfecthol.com/",
+    "updated_at":  "2026-07-20T16:10:12",
+    "files_downloaded_total":  75,
+    "total_bytes":  11283630,
+    "files":  [
+                  {
+                      "path":  "assets/original/fonts/glyphicons-halflings-regular.svg",
+                      "bytes":  264
+                  },
+                  {
+                      "path":  "assets/original/images/33.JPEG",
+                      "bytes":  56587
+                  },
+                  {
+                      "path":  "assets/original/images/34.JPEG",
+                      "bytes":  75906
+                  },
+                  {
+                      "path":  "assets/original/images/35.JPEG",
+                      "bytes":  71261
+                  },
+                  {
+                      "path":  "assets/original/images/36.JPEG",
+                      "bytes":  67509
+                  },
+                  {
+                      "path":  "assets/original/images/37.JPEG",
+                      "bytes":  50557
+                  },
+                  {
+                      "path":  "assets/original/images/38.JPEG",
+                      "bytes":  55567
+                  },
+                  {
+                      "path":  "assets/original/images/39.JPEG",
+                      "bytes":  74330
+                  },
+                  {
+                      "path":  "assets/original/images/40.JPEG",
+                      "bytes":  61350
+                  },
+                  {
+                      "path":  "assets/original/images/41.JPEG",
+                      "bytes":  71013
+                  },
+                  {
+                      "path":  "assets/original/images/42.JPEG",
+                      "bytes":  41050
+                  },
+                  {
+                      "path":  "assets/original/images/43.PNG",
+                      "bytes":  60269
+                  },
+                  {
+                      "path":  "assets/original/images/44.JPEG",
+                      "bytes":  69613
+                  },
+                  {
+                      "path":  "assets/original/images/activity.jpg",
+                      "bytes":  152223
+                  },
+                  {
+                      "path":  "assets/original/images/address.png",
+                      "bytes":  1183
+                  },
+                  {
+                      "path":  "assets/original/images/airport.jpg",
+                      "bytes":  20109
+                  },
+                  {
+                      "path":  "assets/original/images/banner.jpg",
+                      "bytes":  348305
+                  },
+                  {
+                      "path":  "assets/original/images/ch.png",
+                      "bytes":  28846
+                  },
+                  {
+                      "path":  "assets/original/images/chinese.png",
+                      "bytes":  15985
+                  },
+                  {
+                      "path":  "assets/original/images/church.jpg",
+                      "bytes":  101047
+                  },
+                  {
+                      "path":  "assets/original/images/contacten_02.jpg",
+                      "bytes":  142525
+                  },
+                  {
+                      "path":  "assets/original/images/contactmobile_01.jpg",
+                      "bytes":  124141
+                  },
+                  {
+                      "path":  "assets/original/images/contactmobile_02.jpg",
+                      "bytes":  189142
+                  },
+                  {
+                      "path":  "assets/original/images/cruise.jpg",
+                      "bytes":  91884
+                  },
+                  {
+                      "path":  "assets/original/images/crystal.jpg",
+                      "bytes":  345819
+                  },
+                  {
+                      "path":  "assets/original/images/e.png",
+                      "bytes":  739
+                  },
+                  {
+                      "path":  "assets/original/images/elli.jpg",
+                      "bytes":  298990
+                  },
+                  {
+                      "path":  "assets/original/images/en.png",
+                      "bytes":  29032
+                  },
+                  {
+                      "path":  "assets/original/images/english.png",
+                      "bytes":  16083
+                  },
+                  {
+                      "path":  "assets/original/images/enk1.png",
+                      "bytes":  24857
+                  },
+                  {
+                      "path":  "assets/original/images/enk2.png",
+                      "bytes":  20136
+                  },
+                  {
+                      "path":  "assets/original/images/exhibition.jpg",
+                      "bytes":  116124
+                  },
+                  {
+                      "path":  "assets/original/images/gas.jpg",
+                      "bytes":  268784
+                  },
+                  {
+                      "path":  "assets/original/images/icons.png",
+                      "bytes":  3855
+                  },
+                  {
+                      "path":  "assets/original/images/iconsprite.png",
+                      "bytes":  9170
+                  },
+                  {
+                      "path":  "assets/original/images/img10.jpg",
+                      "bytes":  11556
+                  },
+                  {
+                      "path":  "assets/original/images/img11.jpg",
+                      "bytes":  14226
+                  },
+                  {
+                      "path":  "assets/original/images/img11g.jpg",
+                      "bytes":  11150
+                  },
+                  {
+                      "path":  "assets/original/images/img18.jpg",
+                      "bytes":  5578
+                  },
+                  {
+                      "path":  "assets/original/images/img19.jpg",
+                      "bytes":  5808
+                  },
+                  {
+                      "path":  "assets/original/images/img20.jpg",
+                      "bytes":  5685
+                  },
+                  {
+                      "path":  "assets/original/images/img23.jpg",
+                      "bytes":  71876
+                  },
+                  {
+                      "path":  "assets/original/images/img24.jpg",
+                      "bytes":  87513
+                  },
+                  {
+                      "path":  "assets/original/images/img25.jpg",
+                      "bytes":  89378
+                  },
+                  {
+                      "path":  "assets/original/images/img26.jpg",
+                      "bytes":  61306
+                  },
+                  {
+                      "path":  "assets/original/images/img27.jpg",
+                      "bytes":  54415
+                  },
+                  {
+                      "path":  "assets/original/images/img28.jpg",
+                      "bytes":  54010
+                  },
+                  {
+                      "path":  "assets/original/images/img29.jpg",
+                      "bytes":  44924
+                  },
+                  {
+                      "path":  "assets/original/images/img30.jpg",
+                      "bytes":  2583
+                  },
+                  {
+                      "path":  "assets/original/images/imgs1.jpg",
+                      "bytes":  74617
+                  },
+                  {
+                      "path":  "assets/original/images/imgs11.jpg",
+                      "bytes":  50321
+                  },
+                  {
+                      "path":  "assets/original/images/imgs12.jpg",
+                      "bytes":  48798
+                  },
+                  {
+                      "path":  "assets/original/images/imgs2.jpg",
+                      "bytes":  63960
+                  },
+                  {
+                      "path":  "assets/original/images/imgs3.jpg",
+                      "bytes":  69068
+                  },
+                  {
+                      "path":  "assets/original/images/imgs4.jpg",
+                      "bytes":  65459
+                  },
+                  {
+                      "path":  "assets/original/images/imgs5.jpg",
+                      "bytes":  65440
+                  },
+                  {
+                      "path":  "assets/original/images/imgs6.jpg",
+                      "bytes":  68070
+                  },
+                  {
+                      "path":  "assets/original/images/imgs7.jpg",
+                      "bytes":  71883
+                  },
+                  {
+                      "path":  "assets/original/images/imgs8.jpg",
+                      "bytes":  72069
+                  },
+                  {
+                      "path":  "assets/original/images/imgs9.jpg",
+                      "bytes":  68131
+                  },
+                  {
+                      "path":  "assets/original/images/index/1.jpg",
+                      "bytes":  911551
+                  },
+                  {
+                      "path":  "assets/original/images/index/2.jpg",
+                      "bytes":  813277
+                  },
+                  {
+                      "path":  "assets/original/images/index/3.jpg",
+                      "bytes":  1568737
+                  },
+                  {
+                      "path":  "assets/original/images/index/4.jpg",
+                      "bytes":  959304
+                  },
+                  {
+                      "path":  "assets/original/images/index/5.jpg",
+                      "bytes":  1019718
+                  },
+                  {
+                      "path":  "assets/original/images/index/6.jpg",
+                      "bytes":  694594
+                  },
+                  {
+                      "path":  "assets/original/images/joinen.jpg",
+                      "bytes":  440483
+                  },
+                  {
+                      "path":  "assets/original/images/logo.png",
+                      "bytes":  11422
+                  },
+                  {
+                      "path":  "assets/original/images/logoen.png",
+                      "bytes":  10986
+                  },
+                  {
+                      "path":  "assets/original/images/school.jpg",
+                      "bytes":  134648
+                  },
+                  {
+                      "path":  "assets/original/images/ski.jpg",
+                      "bytes":  151473
+                  },
+                  {
+                      "path":  "assets/original/images/wechat%203.png",
+                      "bytes":  85853
+                  },
+                  {
+                      "path":  "assets/original/images/wechat.png",
+                      "bytes":  1223
+                  },
+                  {
+                      "path":  "assets/original/images/wedding.jpg",
+                      "bytes":  126884
+                  },
+                  {
+                      "path":  "assets/original/manifest.json",
+                      "bytes":  11398
+                  }
+              ]
+}
